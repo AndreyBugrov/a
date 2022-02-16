@@ -38,7 +38,7 @@ cout<<"Hello, world!"<<endl;
 return 0;
 }
 ```
-## Лабораторная работа 1. Алгебра полиномов
+# Лабораторная работа 1. Алгебра полиномов
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
